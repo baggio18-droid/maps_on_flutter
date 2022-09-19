@@ -3,7 +3,8 @@ import 'dart:convert';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart' show rootBundle;
 import 'package:http/http.dart' as http;
-import 'package:json_annotation/json_annotation.dart';
+// ignore: depend_on_referenced_packages
+import 'package:json_annotation/json_annotation.dart' show JsonSerializable;
 
 part 'locations.g.dart';
 
