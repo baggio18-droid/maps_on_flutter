@@ -1,16 +1,37 @@
 # maps_on_flutter
 
-A new Flutter project.
+Baggio Deroger
 
-## Getting Started
+1- Adding google maps plugin as a dependecy
 
-This project is a starting point for a Flutter application.
+![Installation](images/result1.PNG)
 
-A few resources to get you started if this is your first Flutter project:
+2- Configuring the Android SDK:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Modifying_build.gradle](images/result2.PNG)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3- Test running the application
+
+![app](images/result3.PNG)
+
+4- Adding additional packages:
+HTTP
+![API](images/result4.PNG)
+
+5- Json & nuild_tunner
+![dependencies](images/result5.PNG)
+
+6- Create locations.dart file
+
+![locations](images/result6.PNG)
+
+7- Testing the app
+
+![Google](images/result7.PNG)
+
+8- Assignment:
+
+![Modify_code](images/result8.PNG)
+
+
+
